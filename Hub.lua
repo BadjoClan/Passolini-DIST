@@ -1,7 +1,7 @@
 --[[
     Passolini HUB -- point d'entree unique
     Genere automatiquement par VoidPusher, ne pas editer a la main.
-    Build: 2026-10-26 13:01:22
+    Build: 2026-10-26 14:50:35
 ]]
 
 local UI_URL  = "https://raw.githubusercontent.com/csgo1compte-cloud/RayVoidUi/refs/heads/main/RayVoid"
@@ -10,6 +10,7 @@ local API     = ""
 
 local MAP = {
 	["10629695169"] = {{n="teste",u="https://raw.githubusercontent.com/BadjoClan/Passolini-DIST/main/teste"}},
+	["10740316645"] = {{n="My-Anime-Mine",u="https://raw.githubusercontent.com/BadjoClan/Passolini-DIST/main/My-Anime-Mine"}},
 }
 
 -- ---------------------------------------------------------------------------
