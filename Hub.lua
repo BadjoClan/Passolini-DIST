@@ -1,7 +1,7 @@
 --[[
     Passolini HUB -- point d'entree unique
     Genere automatiquement par VoidPusher, ne pas editer a la main.
-    Build: 2026-10-26 15:00:03
+    Build: 2026-10-27 14:39:00
 ]]
 
 local UI_URL  = "https://raw.githubusercontent.com/csgo1compte-cloud/RayVoidUi/refs/heads/main/RayVoid"
